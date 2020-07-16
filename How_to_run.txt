@@ -1,0 +1,7 @@
+1.Download the project from G.Drive(https://drive.google.com/drive/folders/1t_dKYWWGypzG5fDaO3xgFY9M1Whamh5l?usp=sharing), Store in Desktop.
+2.Open cmd in Desktop, and check (node.js) is install or not.If not then install (node.js).
+3. change dir to your working folder(C:\Users\aniket\Desktop\whilteboard)
+4.Run server (node server.js)
+5.Open beowser type (localhost:3000 or 127.0.0.1:3000).
+
+
